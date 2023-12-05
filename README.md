@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WeddedTag
 - 👀 I’m interested in junior programmer
 - 🌱 I’m currently learning JS and CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on site and websites
 - 📫 How to reach me ...
 
 <!---
